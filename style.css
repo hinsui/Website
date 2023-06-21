@@ -1,0 +1,26 @@
+h1{
+    color:#6940ff;
+    text-align: center;
+    font-size: 35px
+
+}
+
+.img1{
+    border: 5px dashed rgb(33, 29, 117);
+    border-radius: 20px;
+
+}
+
+#box1{
+    border: 2px dashed rgb(33, 29, 117);
+    border-radius: 20px;
+    color:blue;
+    text-align: center;
+    border-image-slice: center;
+    font-size: 24px;
+    font-weight: 800px;
+}
+
+#box2{
+    color: black;
+}
